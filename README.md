@@ -1,4 +1,4 @@
-# test-1
+# Mona Counter
 
 ## Project setup
 ```

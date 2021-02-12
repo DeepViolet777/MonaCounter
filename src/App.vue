@@ -1,10 +1,7 @@
 <template>
   <div id="app">
     <img alt="img"  width="200px" src="./assets/mona1.jpg">
-    <h1>Моя первая Vue.js приложуха</h1>
-    <h3>
-     Подкинь монетку Моначке!
-    </h3>
+    <h1>Подкинь монетку Моначке!</h1>
     <Counter/>
   </div>
 </template>
@@ -30,7 +27,7 @@ export default {
   margin-top: 60px;
 }
 
-h3 {
+h1 {
   margin: 40px 0 0;
   color: blueviolet;
 }

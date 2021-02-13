@@ -2,7 +2,7 @@
   <div>
     <div class="count">{{ count }}</div>
     <button class="increment" @click="increment">Жми, чтоб прибавить</button>
-    <button class=" decrement" @click="decrement">Жми, чтоб убавить</button>
+    <button class="decrement" @click="decrement">Жми, чтоб убавить</button>
   </div>
 </template>
 

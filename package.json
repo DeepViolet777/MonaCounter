@@ -1,13 +1,13 @@
 {  
-  "homepage": "https://github.com/DeepViolet777/Vue-1",
-  "name": "test-1",
+  "homepage": "https://github.com/DeepViolet777/MonaCounter",
+  "name": "MonaCounter",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "node ./node_modules/vue-gh-pages/index.js"
+    "deploy": "node ./node_modules/vue-gh-pages/index.js --branch gh-pages"
   },
   "dependencies": {
     "core-js": "^3.6.5",
